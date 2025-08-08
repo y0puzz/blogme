@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Fuwari",
+	title: "y0puz",
 	subtitle: "Demo Site",
 	lang: "en", // Language code, e.g. 'en', 'zh-CN', 'ja', etc.
 	themeColor: {
